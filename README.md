@@ -11,19 +11,19 @@ En Vibes, te ofrecemos una amplia gama de playeras, sudaderas y accesorios con d
 #### Playera "Cultura Pop"
 - Precio: $25.00
 - Descripción: Playera con diseño inspirado en íconos de la cultura pop.
-- [Ver Producto]
+- [Ver Producto](images/PLAYERA-1.webp)
 #### Sudadera "Música Retro"
 - Precio: $45.00
 - Descripción: Sudadera con un diseño retro que rinde homenaje a la música de los 80s.
-- [Ver Producto]
+- [Ver Producto](images/PLAYERA-2.webp)
 #### Playera "Arte Urbano"
 - Precio: $30.00 (Descuento: 20%)
 - Descripción: Playera con un diseño inspirado en el arte callejero.
-- [Ver Producto]
+- [Ver Producto](images/PLAYERA-3.webp)
 #### Accesorios "Vintage"
 - Precio: $15.00
 - Descripción: Colección de accesorios con un toque vintage.
-- [Ver Producto]
+- [Ver Producto](images/PLAYERA-3.webp)
 ### Testimonios de Clientes
 #### Ana M.
 "¡Me encantan las playeras! La calidad es increíble y los diseños son súper originales."
@@ -47,17 +47,17 @@ Navega por nuestras colecciones y encuentra la pieza perfecta que refleje tu amo
 ### 1. Playera "Iconos Pop"
 - **Precio:** $199 MXN
 - **Descripción:** Celebra a tus ídolos de la cultura pop con esta playera que presenta un collage vibrante de iconos musicales y referencias culturales. Fabricada con algodón suave y de alta calidad para un ajuste cómodo y duradero.
-![Playera Iconos Pop](insertar_enlace_imagen)
+![Playera Iconos Pop]((images/PLAYERA-1.webp))
 - [Ver Producto]
 ### 2. Playera "Retro Rock"
 - **Precio:** $175 MXN
 - **Descripción:** Revive la era dorada del rock con esta playera retro que rinde homenaje a las leyendas musicales de los años 70 y 80. Su diseño vintage y colores vibrantes capturan la esencia única de la música rock clásica.
-![Playera Retro Rock](insertar_enlace_imagen)
+![Playera Retro Rock]((images/PLAYERA-2.webp))
 - [Ver Producto]
 ### 3. Playera "Cultura Urbana"
 - **Precio:** $225 MXN
 - **Descripción:** Explora el arte urbano y la cultura callejera con esta playera que fusiona graffiti moderno y elementos icónicos del hip-hop. Ideal para quienes buscan expresar su estilo urbano con una prenda de alta calidad y diseño innovador.
-![Playera Cultura Urbana](insertar_enlace_imagen)
+![Playera Cultura Urbana]((images/PLAYERA-3.webp))
 - [Ver Producto]
 ## Beneficios Exclusivos
 - **Envío Gratuito:** En todos los pedidos superiores a $300 MXN.
