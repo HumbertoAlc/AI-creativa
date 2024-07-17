@@ -11,7 +11,7 @@ En Vibes, te ofrecemos una amplia gama de playeras, sudaderas y accesorios con d
 #### Playera "Cultura Pop"
 - Precio: $25.00
 - Descripción: Playera con diseño inspirado en íconos de la cultura pop.
-- [Ver Producto](images/playera 1.png)
+- [Ver Producto](images/ playera 2.png)
 #### Sudadera "Música Retro"
 - Precio: $45.00
 - Descripción: Sudadera con un diseño retro que rinde homenaje a la música de los 80s.
