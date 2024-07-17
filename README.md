@@ -1,4 +1,3 @@
-# Pagina principal
 # Vibes
 ## Bienvenidos a Vibes
 Donde la Cultura y la Música Pop se Encuentran con la Moda
@@ -19,7 +18,7 @@ En Vibes, te ofrecemos una amplia gama de playeras, sudaderas y accesorios con d
 #### Playera "Arte Urbano"
 - Precio: $30.00 (Descuento: 20%)
 - Descripción: Playera con un diseño inspirado en el arte callejero.
-- ![Ver Producto]
+- [Ver Producto]
 #### Accesorios "Vintage"
 - Precio: $15.00
 - Descripción: Colección de accesorios con un toque vintage.
@@ -47,17 +46,17 @@ Navega por nuestras colecciones y encuentra la pieza perfecta que refleje tu amo
 ### 1. Playera "Iconos Pop"
 - **Precio:** $199 MXN
 - **Descripción:** Celebra a tus ídolos de la cultura pop con esta playera que presenta un collage vibrante de iconos musicales y referencias culturales. Fabricada con algodón suave y de alta calidad para un ajuste cómodo y duradero.
-![Imagen vibrante y llamativa que muestra varios productos en un ambiente dinámico, reflejando influencias culturales y de música pop.](/playera 1.png)
+![Playera Iconos Pop](/playera1.png)
 - [Ver Producto]
 ### 2. Playera "Retro Rock"
 - **Precio:** $175 MXN
 - **Descripción:** Revive la era dorada del rock con esta playera retro que rinde homenaje a las leyendas musicales de los años 70 y 80. Su diseño vintage y colores vibrantes capturan la esencia única de la música rock clásica.
-![Playera Retro Rock]((/playera 1.png))
+![Playera Retro Rock](/playera2.png)
 - [Ver Producto]
 ### 3. Playera "Cultura Urbana"
 - **Precio:** $225 MXN
 - **Descripción:** Explora el arte urbano y la cultura callejera con esta playera que fusiona graffiti moderno y elementos icónicos del hip-hop. Ideal para quienes buscan expresar su estilo urbano con una prenda de alta calidad y diseño innovador.
-![Playera Cultura Urbana]((images/PLAYERA-3.webp))
+![Playera Cultura Urbana](/playera3.png)
 - [Ver Producto]
 ## Beneficios Exclusivos
 - **Envío Gratuito:** En todos los pedidos superiores a $300 MXN.
