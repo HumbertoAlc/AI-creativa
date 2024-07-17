@@ -2,8 +2,7 @@
 # Vibes
 ## Bienvenidos a Vibes
 Donde la Cultura y la Música Pop se Encuentran con la Moda
-![Imagen vibrante y llamativa que muestra varios productos en un ambiente dinámico, reflejando influencias culturales y de música pop.](AI-creativa
-/images/Logo.png)
+![Imagen vibrante y llamativa que muestra varios productos en un ambiente dinámico, reflejando influencias culturales y de música pop.](images/Logo.png)
 ### Descubre Nuestra Colección
 En Vibes, te ofrecemos una amplia gama de playeras, sudaderas y accesorios con diseños únicos que celebran lo mejor de la cultura y la música pop. Desde icónicos ídolos musicales hasta arte urbano y referencias culturales, cada pieza está diseñada para destacar y expresar tu estilo personal.
 ### Barra de Búsqueda
