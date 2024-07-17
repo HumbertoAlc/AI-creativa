@@ -2,7 +2,7 @@
 # Vibes
 ## Bienvenidos a Vibes
 Donde la Cultura y la Música Pop se Encuentran con la Moda
-![Imagen vibrante y llamativa que muestra varios productos en un ambiente dinámico, reflejando influencias culturales y de música pop.](images/Logo.png)
+![Imagen vibrante y llamativa que muestra varios productos en un ambiente dinámico, reflejando influencias culturales y de música pop.](/Logo.png)
 ### Descubre Nuestra Colección
 En Vibes, te ofrecemos una amplia gama de playeras, sudaderas y accesorios con diseños únicos que celebran lo mejor de la cultura y la música pop. Desde icónicos ídolos musicales hasta arte urbano y referencias culturales, cada pieza está diseñada para destacar y expresar tu estilo personal.
 ### Barra de Búsqueda
@@ -11,19 +11,19 @@ En Vibes, te ofrecemos una amplia gama de playeras, sudaderas y accesorios con d
 #### Playera "Cultura Pop"
 - Precio: $25.00
 - Descripción: Playera con diseño inspirado en íconos de la cultura pop.
-- [Ver Producto](images/PLAYERA-3.webp)
+- [Ver Producto]
 #### Sudadera "Música Retro"
 - Precio: $45.00
 - Descripción: Sudadera con un diseño retro que rinde homenaje a la música de los 80s.
-- [Ver Producto](images/PLAYERA-3.webp)
+- [Ver Producto]
 #### Playera "Arte Urbano"
 - Precio: $30.00 (Descuento: 20%)
 - Descripción: Playera con un diseño inspirado en el arte callejero.
-- ![Ver Producto](images/playera 3.png)
+- ![Ver Producto]
 #### Accesorios "Vintage"
 - Precio: $15.00
 - Descripción: Colección de accesorios con un toque vintage.
-- [Ver Producto](images/PLAYERA-3.webp)
+- [Ver Producto]
 ### Testimonios de Clientes
 #### Ana M.
 "¡Me encantan las playeras! La calidad es increíble y los diseños son súper originales."
@@ -47,12 +47,12 @@ Navega por nuestras colecciones y encuentra la pieza perfecta que refleje tu amo
 ### 1. Playera "Iconos Pop"
 - **Precio:** $199 MXN
 - **Descripción:** Celebra a tus ídolos de la cultura pop con esta playera que presenta un collage vibrante de iconos musicales y referencias culturales. Fabricada con algodón suave y de alta calidad para un ajuste cómodo y duradero.
-![Playera Iconos Pop]((images/PLAYERA-1.webp))
+![Imagen vibrante y llamativa que muestra varios productos en un ambiente dinámico, reflejando influencias culturales y de música pop.](/playera 1.png)
 - [Ver Producto]
 ### 2. Playera "Retro Rock"
 - **Precio:** $175 MXN
 - **Descripción:** Revive la era dorada del rock con esta playera retro que rinde homenaje a las leyendas musicales de los años 70 y 80. Su diseño vintage y colores vibrantes capturan la esencia única de la música rock clásica.
-![Playera Retro Rock]((images/PLAYERA-2.webp))
+![Playera Retro Rock]((/playera 1.png))
 - [Ver Producto]
 ### 3. Playera "Cultura Urbana"
 - **Precio:** $225 MXN
